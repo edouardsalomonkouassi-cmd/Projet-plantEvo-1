@@ -84,9 +84,18 @@ Une fois que vous savez écrire la structure de mémoire, VS Code peut la géné
 ## Questions de compréhension
 
 1. Quelle est la différence entre le `<head>` et le `<body>` ?
+reponse : 
+`<head>`cet attribut concerne les métadonnées de la page, permettant de la nommer par exemple.
+`<body>`cet attribut concerne le corps de la page, il permet d'inserer du texte autres
+
 2. À quoi sert l'attribut `lang="fr"` ? (Pensez aux lecteurs d'écran et aux moteurs de recherche.)
-3. À quoi sert la ligne `<!DOCTYPE html>` ?
+Reponse : `lang="fr"`permet aux lecteurs d'ecran et aux moteurs de recherche de savoir que notre page est en français.
+
+3. À quoi sert la ligne `<!DOCTYPE html>` ? 
+Reponse : Il indique au navigateur web la version du langage, s'il est en HTML ou autres pour que la page puisse s'affichée correctement
+
 4. Pourquoi est-il utile d'écrire des commentaires dans son code, alors qu'ils ne s'affichent pas ?
+Reponse : Les commentaires permettent de mieux se reperer dans le code, on peut par exemple mettre des explications pour que lors de groupe de travail les autres puissent comprendre ce qui a ete fait.
 
 ## Lien avec le brief PlantEvo
 
